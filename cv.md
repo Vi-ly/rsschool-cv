@@ -6,5 +6,8 @@ cv
 4 I have no programming experience
 5 -
 6 -
-7 Education: College of Engineering,  College of Music, University of Economics
+7  The Faculty of Marketing and Logistics Belarus State Economic University (2010-1015), The Minsk State Musical College named after Michail Glinka (2004-2008), BELARUSIAN NATIONAL TECHNICAL UNIVERSITY (2000-2004)
+Branch of BNTU 
+"Zhodino State Polytechnic College"
 8 Pre-Intermediate 
+
